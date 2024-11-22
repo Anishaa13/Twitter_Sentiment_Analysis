@@ -96,5 +96,3 @@ This project demonstrates the use of Natural Language Processing (NLP) and machi
 
 - Achieved 90% accuracy on sentiment classification.
 - Provided insights into public sentiment trends, useful for marketing, customer feedback, and social media strategies.
-
---
